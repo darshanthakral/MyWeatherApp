@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="enter_your_city">Enter Your City</string>
+    <string name="enter_your_state">Enter Your State</string>
+    <string name="enter_your_country">Enter Your Country</string>
+    <string name="get_it">Get It!</string>
+    <string name="get_weather_by_latLon">Get Weather by LatLang</string>
+    <string name="get_weather_by_city_name">Get Weather by City Name</string>
+    <string name="enter_latitude">Enter Latitude</string>
+    <string name="enter_longitude">Enter Longitude</string>
+    <string name="text_location">Click to get your Location</string>
+    <string name="img_location">location_Img</string>
+    <string name="result">.....</string>
+    <string name="spacer">or</string>
+    <string name="fetch_It">Fetch It</string>
+
+</resources>
